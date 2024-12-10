@@ -1,16 +1,28 @@
 ## Hi there 👋 I'm Natalie!
+![alt text](https://github.com/nataliekao03/nataliekao03/blob/main/headshot.jpg?raw=true)
 
-<!--
-**nataliekao03/nataliekao03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me**  
+I’m Natalie, a senior at San Jose State University, majoring in Software Engineering. 
+I’m passionate about building innovative solutions in Software Engineering and AI/Machine Learning .
 
-Here are some ideas to get you started:
+🔧 **Skills & Tools**  
+- Programming Languages: Java, Python, C, PHP
+- Tools: VS Code, Git, Jupyter Notebooks
+- Databases: MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Featured Projects**
+- [**Web Clustering**](#): 
+    Description: Using PHP to implement unsupervised ML algorithms to build a user-friendly web application that 
+      Algorithms Implemented:
+            K-Means 
+            Expectation Maximization
+- [**Affirmi**](#): 
+    Description: Developed a mental health application with journaling, personalized advice, and tracking features using React Native. Integrated OpenAI API to create a personalized therapist chatbot for user interaction and affirmation support 
+      
+- [**BiteSwipe**](#): 
+    Description: Created a Tinder-style restaurant-finding app using React Native to simplify dining decisions for users with host and guest roles to create an interactive and friendly game experience. 
+
+📫 Contact Information:
+- Email: natkao3011@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nataliekao/
+
