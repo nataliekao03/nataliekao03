@@ -1,10 +1,10 @@
 ## Hi there 👋 I'm Natalie!
-<img src="https://github.com/nataliekao03/nataliekao03/blob/main/profilepic.jpg?raw=true" alt="headshot" width="400" height="400">
+<img src="https://github.com/nataliekao03/nataliekao03/blob/main/profilepic.jpg?raw=true" alt="headshot" width="310" height="330">
 
 
 
 🌟 **About Me**  
-I’m Natalie, a senior at San Jose State University, majoring in Software Engineering. 
+Hi! I’m Natalie, a senior at San Jose State University, majoring in Software Engineering. 
 I’m passionate about building innovative solutions in Software Engineering and AI/Machine Learning .
 
 🔧 **Skills & Tools**  
