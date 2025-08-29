@@ -13,15 +13,14 @@ I’m passionate about building innovative solutions in Software Engineering and
 - Databases: MySQL
 
 📌 **Featured Projects**
-- [**Web Clustering**](#): 
-    Description: Using PHP to implement unsupervised ML algorithms to build a user-friendly web application that 
-      Algorithms Implemented:
-            K-Means 
-            Expectation Maximization
-- [**Affirmi**](#): 
+- [**RateMyStudySpace**](https://github.com/nataliekao03/RateMyStudySpace): 
+    Description: Collaborated with a team of four to create a web application for college students to discove, rate, and review campus study spaces based on crowd levels, ambiance, and user feedback. Features an interactive chatbot to provide users with personalized study spot recommendations and quick sentiment analysis.
+
+
+- [**Affirmi**](https://github.com/nataliekao03/Affirmi): 
     Description: Developed a mental health application with journaling, personalized advice, and tracking features using React Native. Integrated OpenAI API to create a personalized therapist chatbot for user interaction and affirmation support 
       
-- [**BiteSwipe**](#): 
+- [**BiteSwipe**](https://github.com/nataliekao03/BiteSwipe): 
     Description: Created a Tinder-style restaurant-finding app using React Native to simplify dining decisions for users with host and guest roles to create an interactive and friendly game experience. 
 
 📫 Contact Information:
